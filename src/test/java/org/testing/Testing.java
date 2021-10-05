@@ -15,7 +15,8 @@ public class Testing extends BaseClass{
 		System.out.println(attribute);
 		System.out.println("network");
 		System.out.println("java");
-		
+		System.out.println("Framework");
+		System.out.println("learn");		
 	}
 	
 	
