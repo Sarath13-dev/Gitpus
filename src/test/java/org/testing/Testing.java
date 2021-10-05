@@ -13,7 +13,8 @@ public class Testing extends BaseClass{
 		driver.navigate().refresh();
 		String attribute = txtUsername.getAttribute("id");
 		System.out.println(attribute);
-		
+		System.out.println("network");
+		System.out.println("java");
 		
 	}
 	
